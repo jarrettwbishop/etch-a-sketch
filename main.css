@@ -3,14 +3,13 @@
     --background: #a4efdc;
     --title: #efe9a4;
     --change: #666666;
+
 }
 
 * {
     margin: 0;
     padding: 0;
-    text-decoration: none;
-    
-    
+    text-decoration: none; 
 }
 
 html {
@@ -68,7 +67,7 @@ h1 {
     display: flex;
     flex-grow: 1;
     flex-shrink: 1;
-    border: .1px solid lightgray
+    border: .1px solid lightgray;
 }
 
 
